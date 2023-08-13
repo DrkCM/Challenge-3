@@ -8,5 +8,5 @@ In this Challenge I learn how to create a website/portfolio with different parts
 Deployed Link
 https://drkcm.github.io/Challenge-3/
 
-Links to an external site.Repo Link
+Repo Link
 https://github.com/DrkCM/Challenge-3
